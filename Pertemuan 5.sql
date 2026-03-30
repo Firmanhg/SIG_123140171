@@ -1,0 +1,1 @@
+SELECT geom FROM pertanian.deteksi_objek LIMIT 5;
